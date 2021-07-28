@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me:
 <!-- Actual text -->
-<a href="https://www.linkedin.com/in/janainacoelhodr/">
+<a href="https://www.linkedin.com/in/janainacoelhodr/" target="_blank">
   <img align="center" src="https://image.flaticon.com/icons/png/512/145/145807.png" width="40px" />
 </a>
 <a href="mailto: janainacoelhodr@gmail.com">
