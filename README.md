@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/janainacoelhodr/" target="_blank">
   <img align="center" src="https://image.flaticon.com/icons/png/512/145/145807.png" width="40px" />
 </a>
-<a href="mailto: janainacoelhodr@gmail.com">
+<a href="mailto: janainacoelhodr@gmail.com" target="_blank">
   <img align="center" src="https://image.flaticon.com/icons/png/512/552/552486.png" width="40px" />
 </a>
 <br/>
