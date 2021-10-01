@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janaina 'Nina' Coelho</h1>
 <h3 align="center">A passionate QA and developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Unit testing with Jest and ScalaTest, e2e with cypress and GraphQL.**
+- 🔭 I’m currently working on **Unit testing with Jest and ScalaTest, e2e with cypress and GraphQL and Scala**
 
 - 🌱 I’m currently learning **Go, Kotlin, Flutter, Devops**
 
