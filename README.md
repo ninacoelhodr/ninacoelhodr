@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janaina 'Nina' Coelho</h1>
 <h3 align="center">A passionate QA and developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Unit testing with Playwright, Appium, Selenium and Cypress**
+- 🔭 I’m currently working on **testing with Playwright, Appium, Selenium and Cypress**
 
 - 🌱 I’m currently learning **Go, Pythons**
 
