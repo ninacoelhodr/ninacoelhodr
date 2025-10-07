@@ -30,11 +30,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Go, Java, Kotlin  
-**Automation & Testing:** Playwright, Selenium, Cypress, Appium, K6, Jest, Postman  
-**DevOps & Cloud:** GitHub Actions, Docker, AWS, Azure  
-**Databases:** PostgreSQL, MongoDB, SQLite 
-**AI & Tools:** MCP, LangChain, CrewAI, OpenAI, GitHub Copilot  
+- **Languages:** JavaScript, TypeScript, Python, Go, Java, Kotlin
+- **Automation & Testing:** Playwright, Selenium, Cypress, Appium, K6, Jest, Postman
+- **DevOps & Cloud:** GitHub Actions, Docker, AWS, Azure
+- **Databases:** PostgreSQL, MongoDB, SQLite
+- **AI & Tools:** MCP, LangChain, CrewAI, OpenAI, GitHub Copilot  
 
 
 ---
