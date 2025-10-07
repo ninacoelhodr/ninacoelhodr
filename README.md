@@ -36,21 +36,6 @@
 **Databases:** PostgreSQL, MongoDB, SQLite 
 **AI & Tools:** MCP, LangChain, CrewAI, OpenAI, GitHub Copilot  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninacoelhodr&show_icons=true&theme=dracula&locale=en" alt="ninacoelhodr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninacoelhodr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ninacoelhodr" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ninacoelhodr&theme=dracula&margin-w=10" alt="github trophies"/>
-</p>
 
 ---
 
